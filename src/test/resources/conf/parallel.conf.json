@@ -1,0 +1,20 @@
+{
+  "server": "hub.lambdatest.com",
+  "user": "mayankmaurya",
+  "key": "4N7wU1Sq7cBGRHCaGf5Y72mTS30xyLV1faGphyvELhuNoTLMRk",
+
+  "capabilities": {
+    "build": "jbehave-lambdatest",
+    "name": "parallel_test"
+  },
+
+  "environments": [{
+    "browser": "chrome"
+  },{
+    "browser": "firefox"
+  },{
+    "browser": "safari"
+  },{
+    "browser": "internet explorer"
+  }]
+}
